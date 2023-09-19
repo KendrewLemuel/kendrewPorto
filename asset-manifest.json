@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc953733.css",
+    "main.js": "/static/js/main.40247128.js",
+    "static/media/bg.png": "/static/media/bg.5ca96f81c7032335ed72.png",
+    "static/media/imdb_tumbnail.png": "/static/media/imdb_tumbnail.065f3191cc9db615a961.png",
+    "static/media/booking-tumb.png": "/static/media/booking-tumb.5ae3a6a6d1fd1899cd47.png",
+    "static/media/food-resp.jpg": "/static/media/food-resp.65b18f9d4dcf26887a94.jpg",
+    "static/media/Booking-fullpage.jpg": "/static/media/Booking-fullpage.8b2e251d59ccd46e6e3e.jpg",
+    "static/media/wallpaper2.png": "/static/media/wallpaper2.8d4ce5fcc5d58e13cb30.png",
+    "static/media/skripsi-bg.png": "/static/media/skripsi-bg.4b7b11104b17736883df.png",
+    "static/media/food-full.jpeg": "/static/media/food-full.63786b278c42ed6ef46d.jpeg",
+    "static/media/foto.jpg": "/static/media/foto.762a95924f970b981e91.jpg",
+    "static/media/imdb_full.jpeg": "/static/media/imdb_full.fcf9a27647236ed7a57f.jpeg",
+    "static/media/imdb_resp.jpeg": "/static/media/imdb_resp.71e1a0e40ef4b4b76519.jpeg",
+    "static/media/dressly-responsive.jpeg": "/static/media/dressly-responsive.88ef7f403607b92212b7.jpeg",
+    "static/media/dressly-bg.png": "/static/media/dressly-bg.472b90bab46532626d79.png",
+    "static/media/dressly-porto.jpeg": "/static/media/dressly-porto.96059976081692d201e5.jpeg",
+    "static/media/hotel-resp.jpeg": "/static/media/hotel-resp.47eb6556c520b18d7fbe.jpeg",
+    "static/media/hotel-porto.jpeg": "/static/media/hotel-porto.372829a3610c967b18cb.jpeg",
+    "static/media/booking-resp.jpeg": "/static/media/booking-resp.5726ce060178fdaf3527.jpeg",
+    "static/media/porto 1.png": "/static/media/porto 1.511557732ea984da4502.png",
+    "static/media/food-detail.jpeg": "/static/media/food-detail.66bce1f3d7d3748a4e57.jpeg",
+    "index.html": "/index.html",
+    "main.fc953733.css.map": "/static/css/main.fc953733.css.map",
+    "main.40247128.js.map": "/static/js/main.40247128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc953733.css",
+    "static/js/main.40247128.js"
+  ]
+}
